@@ -1,0 +1,42 @@
+#title {
+  border-style: hidden;
+  margin-right: 150;
+  margin-left: 150;
+  border-radius: 20px;
+  background-color:lightblue;
+  text-align:center;
+  font-family:arial, verdana, sans-serif;
+  font-size: 100px;
+}
+
+#undertitle {
+  margin-top: 30px;
+  padding: ab
+  border-style: solid;
+  border-width: 5px;
+  text-align:center;
+  font-family:arial, verdana, sans-serif;
+  font-size: 50px;
+}
+
+#price-text {
+  position: absolute;
+  top: 375;
+  left: 155;
+  border-style: hidden;
+  border-radius: 20px;
+  font-family:arial, verdana, sans-serif;
+  font-size: 35px;
+}
+
+#price-number{
+
+  border-style: solid;
+  border-width: 5px;
+  position: relative;
+  top: 50;
+  left: 680px;
+  font-family:arial, verdana, sans-serif;
+  font-size: 135px;
+  max-width: 50px;
+}
